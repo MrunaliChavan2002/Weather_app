@@ -9,7 +9,7 @@ This is a personal project built in my spare time for learning purposes.
 <li>Displays the present weather conditions (Temperature, Humidity, Cloud Cover) along with forecasts for the future.</li>
 <ul>
 <br>
-  <h1>Technologies</h1>
+  <h1>Technologies Used</h1>
   ReactJS<br>
   Javascript<br>
   tailwind CSS
