@@ -10,9 +10,9 @@ This is a personal project built in my spare time for learning purposes.
 <ul>
 <br>
   <h1>Technologies</h1>
-  Html<br>
-  CSS<br>
-  Boostrap
+  ReactJS<br>
+  Javascript<br>
+  tailwind CSS
   
   <h1>API</h1>
 'https://visual-crossing-weather.p.rapidapi.com/forecast
